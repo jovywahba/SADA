@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.env.local
+.DS_Store
+
+# local build cache and editor/agent tooling
+tsconfig.tsbuildinfo
+.claude/
+*.log
